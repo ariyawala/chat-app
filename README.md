@@ -1,4 +1,4 @@
-#　テーブル設計
+# テーブル設計
 
 ## users table
 
@@ -74,4 +74,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
